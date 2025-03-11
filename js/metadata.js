@@ -116,3 +116,5 @@ document.querySelector('li#socials').innerHTML = `
         <a href="${twitter}" target="_blank"><i class="fab fa-twitter"></i></a>
         <a href="${reddit}" target="_blank"><i class="fab fa-reddit"></i></a>
         `;
+
+weee
